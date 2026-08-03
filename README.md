@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josu-gomez
 - 👀 I’m interested in free software and services
-- 🌱 I’m currently learning devops
+- 🌱 I’m currently working as devops
 - 📫 How to reach me ... find me!
 
 <!---
